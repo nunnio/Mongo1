@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51bfd4e5-0d6f-498d-9ef1-a796bb5957a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ActualizaLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ActualizaMuchos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/Conecta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/InsertaMuchos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/InsertaUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/LIstaTodosLibros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ReemplazaUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Ej7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nnh/ejemplos/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nnh/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KB5aYWINQDbqA4esVJMwRzDKas" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nnh" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nnh.ejemplos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51bfd4e5-0d6f-498d-9ef1-a796bb5957a9" name="Changes" comment="" />
+      <created>1673435201961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673435201961</updated>
+      <workItem from="1673435203260" duration="5755000" />
+      <workItem from="1673596827224" duration="5736000" />
+      <workItem from="1673939041840" duration="4764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
